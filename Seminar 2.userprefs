@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\script\pause.cs">
+    <Files>
+      <File FileName="Assets\script\mainMenu.cs" Line="24" Column="1" />
+      <File FileName="Assets\script\levelSelection.cs" Line="11" Column="1" />
+      <File FileName="Assets\script\scoreBoard.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\credits.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\setting.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\pause.cs" Line="46" Column="28" />
+      <File FileName="Assets\script\story.cs" Line="9" Column="30" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
